@@ -46,14 +46,6 @@ I am a **Computer Science and Automation** student at the Faculty of Technical S
 
 ---
 
-### 📊 My GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudeknadja&show_icons=true&theme=radial&rank_icon=github" alt="Nadja's GitHub Statistics" />
-</p>
-
----
-
 ### 📬 Let's Connect!
 
 If you want to talk about embedded systems, software engineering, or collaboration on projects, feel free to contact me:
